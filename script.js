@@ -2,8 +2,6 @@
 // Create the student object
 const student = {
   name: "John",
-  age: 22,
-  city: "Ahmedabad"
 };
 
 Object.prototype.getKeys=function(){
